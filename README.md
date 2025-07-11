@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native**
 
-- 📫 How to reach me **farooqmuzamil.127@gmail.com**
+- 📫 How to reach me **https://mujjiiportfolio.netlify.app/**
 
 - ⚡ Fun fact **I Think i am Funny Guy**
 
