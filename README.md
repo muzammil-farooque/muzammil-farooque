@@ -12,7 +12,7 @@
 
 - 👯 I’m looking to collaborate on **Cloud Native**
 
-- 📫 How to reach me **https://mujjiiportfolio.netlify.app/**
+- 📫 How to reach me **https://mujiporfolio.netlify.app/**
 
 - ⚡ Fun fact **I Think i am Funny Guy**
 
